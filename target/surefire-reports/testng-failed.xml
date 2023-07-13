@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="com.TutorialsNinja.Qa.Listeners.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test TutorialNinja ITestListener ScreenShot(failed)" verbose="0">
+    <classes>
+      <class name="com.TutorialsNinja.Qa.TestCases.Search_02_Test">
+        <methods>
+          <include name="verifySearchWithoutAnyProduct"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="verifySearchWithInvalidProduct"/>
+        </methods>
+      </class> <!-- com.TutorialsNinja.Qa.TestCases.Search_02_Test -->
+    </classes>
+  </test> <!-- Test TutorialNinja ITestListener ScreenShot(failed) -->
+</suite> <!-- Failed suite [Suite] -->

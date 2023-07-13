@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-13T10:50:02 EDT" name="Default suite" finished-at="2023-07-13T10:50:47 EDT" duration-ms="44639">
+    <groups>
+    </groups>
+    <test started-at="2023-07-13T10:50:02 EDT" name="Default test" finished-at="2023-07-13T10:50:47 EDT" duration-ms="44639">
+      <class name="com.TutorialsNinja.Qa.TestCases.Register_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.TutorialsNinja.Qa.TestCases.Register_Test@47eaca72]" started-at="2023-07-13T10:50:02 EDT" name="setUp" finished-at="2023-07-13T10:50:10 EDT" duration-ms="7704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyRegisteringAnAccountwithMandatoryFields()[pri:1, instance:com.TutorialsNinja.Qa.TestCases.Register_Test@47eaca72]" started-at="2023-07-13T10:50:10 EDT" name="verifyRegisteringAnAccountwithMandatoryFields" finished-at="2023-07-13T10:50:12 EDT" duration-ms="2185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAnAccountwithMandatoryFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TutorialsNinja.Qa.TestCases.Register_Test@47eaca72]" started-at="2023-07-13T10:50:12 EDT" name="tearDown" finished-at="2023-07-13T10:50:13 EDT" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.TutorialsNinja.Qa.TestCases.Register_Test@47eaca72]" started-at="2023-07-13T10:50:13 EDT" name="setUp" finished-at="2023-07-13T10:50:19 EDT" duration-ms="5938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyRegisteringAnAccountwithAllFields()[pri:2, instance:com.TutorialsNinja.Qa.TestCases.Register_Test@47eaca72]" started-at="2023-07-13T10:50:19 EDT" name="verifyRegisteringAnAccountwithAllFields" finished-at="2023-07-13T10:50:21 EDT" duration-ms="2078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAnAccountwithAllFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TutorialsNinja.Qa.TestCases.Register_Test@47eaca72]" started-at="2023-07-13T10:50:21 EDT" name="tearDown" finished-at="2023-07-13T10:50:21 EDT" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.TutorialsNinja.Qa.TestCases.Register_Test@47eaca72]" started-at="2023-07-13T10:50:21 EDT" name="setUp" finished-at="2023-07-13T10:50:27 EDT" duration-ms="5858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyRegisteringAnAccountwithExistingEmailAddress()[pri:3, instance:com.TutorialsNinja.Qa.TestCases.Register_Test@47eaca72]" started-at="2023-07-13T10:50:27 EDT" name="verifyRegisteringAnAccountwithExistingEmailAddress" finished-at="2023-07-13T10:50:28 EDT" duration-ms="1570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAnAccountwithExistingEmailAddress -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TutorialsNinja.Qa.TestCases.Register_Test@47eaca72]" started-at="2023-07-13T10:50:28 EDT" name="tearDown" finished-at="2023-07-13T10:50:29 EDT" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.TutorialsNinja.Qa.TestCases.Register_Test@47eaca72]" started-at="2023-07-13T10:50:29 EDT" name="setUp" finished-at="2023-07-13T10:50:39 EDT" duration-ms="10155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyRegisteringAnAccountWithOutFillingAnyDetails()[pri:4, instance:com.TutorialsNinja.Qa.TestCases.Register_Test@47eaca72]" started-at="2023-07-13T10:50:39 EDT" name="verifyRegisteringAnAccountWithOutFillingAnyDetails" finished-at="2023-07-13T10:50:40 EDT" duration-ms="965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAnAccountWithOutFillingAnyDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TutorialsNinja.Qa.TestCases.Register_Test@47eaca72]" started-at="2023-07-13T10:50:40 EDT" name="tearDown" finished-at="2023-07-13T10:50:40 EDT" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.TutorialsNinja.Qa.TestCases.Register_Test@47eaca72]" started-at="2023-07-13T10:50:40 EDT" name="setUp" finished-at="2023-07-13T10:50:46 EDT" duration-ms="5819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyRegisteringAnAccountWarningStatusWithoutFillingAnyDetails()[pri:5, instance:com.TutorialsNinja.Qa.TestCases.Register_Test@47eaca72]" started-at="2023-07-13T10:50:46 EDT" name="verifyRegisteringAnAccountWarningStatusWithoutFillingAnyDetails" finished-at="2023-07-13T10:50:47 EDT" duration-ms="910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAnAccountWarningStatusWithoutFillingAnyDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TutorialsNinja.Qa.TestCases.Register_Test@47eaca72]" started-at="2023-07-13T10:50:47 EDT" name="tearDown" finished-at="2023-07-13T10:50:47 EDT" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TutorialsNinja.Qa.TestCases.Register_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
