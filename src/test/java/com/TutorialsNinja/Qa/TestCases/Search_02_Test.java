@@ -77,7 +77,7 @@ public class  Search_02_Test extends Base_Class                                 
 	
 //  TestCase: 02   	Verify Search_Test Functionality , InValid__Product / Non-existing Product..
 		
-		
+	// Failed TestCase	
 		
 		@Test (priority = 2)
 		public void verifySearchWithInvalidProduct()
@@ -96,7 +96,9 @@ public class  Search_02_Test extends Base_Class                                 
 				Assert.assertEquals(actualSearchMessage, Expected_No_Product_Match_Msg  +  " abcd ",  "No_Product Message from search message is not Displayed..." );
 			
 		}
-				
+		
+		// Skip TestCase
+		
 		@Test (priority = 3,  dependsOnMethods = { "verifySearchWithInvalidProduct" } )
 		public void verifySearchWithoutAnyProduct()
 					
